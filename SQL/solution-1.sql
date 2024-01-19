@@ -1,0 +1,4 @@
+!-- WRITE SQL QUERY TO GET PIZZAS THAT THE PRICE OF WHICH IS BETWEEN 500 AND 1000 
+!-- EXPECTED OUTPUT:
+!-- | pizza  | price     |"
+!-- | Hawaii | 850       |
